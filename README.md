@@ -17,7 +17,7 @@ During the evaluation phase, testing higher-order functions proved that increasi
 
 1. Install the required libraries:
 ```bash
-pip install numpy scikit-learn joblib
+pip install -r requirements.txt
 ```
 
 2. Run this Python code to get a prediction:
